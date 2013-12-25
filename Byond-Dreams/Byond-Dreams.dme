@@ -13,6 +13,7 @@
 // END_PREFERENCES
 
 // BEGIN_INCLUDE
-#include "Byond-Dreams.dm"
+#include "Global\Byond-Dreams.dm"
+#include "Skin\main.dmf"
 // END_INCLUDE
 
